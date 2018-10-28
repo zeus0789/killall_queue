@@ -33,7 +33,7 @@ After checkout (which is allowed only when the user shows )the inventory is upda
 6. Scan the qr code by the app
 7. You are ready to go!
 
-Find more about the project here : killallqueue.tech
+Find more about the project here : http://killallqueue.tech/
 
 ## Future Prospects
 
